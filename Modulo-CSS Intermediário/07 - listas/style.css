@@ -1,0 +1,21 @@
+ul {
+    /* list-style-image: url('./imagem/icon.png'); */
+    background-color: orange;
+    list-style: circle inside url('./imagem/icon.png');
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+ol {
+    /* list-style-image: url('./imagem/icon.png'); */
+    background-color: cyan;
+    list-style: circle inside url('./imagem/icon.png');
+}
+
+ol li {
+    border: 1px solid black;
+    padding: 20px;
+}

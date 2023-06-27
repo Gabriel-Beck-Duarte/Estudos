@@ -1,0 +1,9 @@
+p{
+    margin: 30px 15px;
+    padding: 10px;
+    background-color: aquamarine;
+
+    border-style:solid;
+    border-width: 10px;
+    border-color: red blue green yellow;
+} 

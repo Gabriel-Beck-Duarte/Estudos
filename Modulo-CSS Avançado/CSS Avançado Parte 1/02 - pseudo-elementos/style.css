@@ -1,0 +1,25 @@
+/* seletor::pseudo-elemento{
+    propiedade: valor;
+} */
+
+.primeira-letra::first-letter {
+    color: coral;
+    font-size: 24px;
+}
+
+.linha-toda::first-line {
+    color: blueviolet;
+}
+
+li::marker {
+    color: cyan;
+    font-size: 32px;
+}
+
+.antes::before {
+    content: url(imagem/350x250.png);
+}
+
+.depois::after {
+    content: url(imagem/350x250.png);
+}

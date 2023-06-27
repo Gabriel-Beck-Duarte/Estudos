@@ -1,0 +1,14 @@
+div{
+    width: 100px;   
+    height: 100px;
+    padding: 10px;
+    border: 10px solid green;
+}
+
+.Com-border-box{
+    background-color: cyan;
+    box-sizing: border-box;
+}
+.Sem-border-box{
+    background-color: brown;
+}

@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    padding-left: 200px;
+}
+#caixa{
+    box-sizing: border-box;
+    background-color:#F5F5F5 ;
+    width: 625px;
+    height: 125px;
+    padding: 20px;
+    margin: 40px;
+    padding-bottom: 500px;
+}
+#p1{
+    background-color: rgba(0, 255, 255, 0.424);
+    padding: 20px;
+    margin: 40px;
+}
+.p2{
+    background-color:#F0CCE2;
+    padding: 20px;
+    margin: 40px;
+}

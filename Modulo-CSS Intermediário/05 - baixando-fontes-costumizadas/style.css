@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'milky';
+    src: url('./fonts/milky_2/Milky.ttf');
+}
+
+h1 {
+    font-family: 'milky';
+    font-weight: 100;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}

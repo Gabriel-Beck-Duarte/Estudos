@@ -1,0 +1,25 @@
+ :root{
+    --cor-padrão: blue;
+    --tamanho-da-fonte: 20px;
+ }
+
+ h2{
+    color: var(--cor-padrão, lightblue);
+    font-size: var(--tamanho-da-fonte, 20px);
+ }
+
+ h3{
+    --cor-de-fundo: lightgreen;
+    background-color: var(--co-de-fundo, pink);
+    color: var(--cor-padrão, lightblue);
+    font-size: var(--tamanho-da-fonte, 20px);
+ }
+
+ p{
+    color: var(--cor-padrão, lightblue);
+    font-size: var(--tamanho-da-fonte, 20px);
+ }
+ span{
+    color: var(--cor-padrão, lightblue);
+    font-size: var(--tamanho-da-fonte, 20px);
+ }

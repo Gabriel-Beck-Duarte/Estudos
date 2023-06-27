@@ -1,0 +1,45 @@
+* {
+    font-size: 30px;
+}
+h1 {
+    color: lightgreen;
+}
+
+.paragrafo{
+    color: lightblue;
+}
+
+#menu{
+    color: lightcoral;
+    margin-left: 100px;
+}
+
+.titulo{
+    font-size: 24px;
+}
+.titulo.roxo{
+    color: purple;
+}
+.titulo.rosa{
+    color: rgb(255, 66, 198);
+}
+
+p,span{
+    font-size: 15px;
+}
+
+.sobre .texto{
+    color: blueviolet;
+}
+
+div > p{
+    color: greenyellow;
+}
+
+div + p{
+    color: gray;
+}
+
+a[target="_blank"]{
+    color: cyan;
+}
